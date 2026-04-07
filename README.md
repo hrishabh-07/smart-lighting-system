@@ -78,5 +78,5 @@ smart-lighting-system/
 ---
 
 ## 👨‍💻 Author
-**Hariharasudhan D**  
+**Hariharasudhan D, Hrishabh Ajith (https://github.com/hrishabh-07)**  
 Aspiring Software / IoT Developer  
